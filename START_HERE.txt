@@ -1,0 +1,13 @@
+LINES & LIGHT — FIVE WEBSITE TEMPLATES
+
+Extract the entire ZIP, then open index.html to compare all five designs.
+
+Each design contains six pages: Home, Gallery, Shop, Custom Orders, About and Contact. Total: five templates / thirty pages, plus the comparison page.
+
+01 Coral & Sky — playful collage
+02 Cobalt & Peach — bold editorial
+03 Rose & Butter — centred gallery
+04 Terracotta & Sand — studio journal
+05 Navy & Apricot — evening gallery
+
+Keep each template folder intact. All images, CSS and JavaScript are included. No build, account or internet connection is needed.
